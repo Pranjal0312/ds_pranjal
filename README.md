@@ -1,1 +1,4 @@
-# ds_pranjal
+pandas
+matplotlib
+seaborn
+scikit-learn (for confusion matrix)
